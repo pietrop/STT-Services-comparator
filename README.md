@@ -28,3 +28,14 @@ Uses Mark hyperaudio transcription comparison app (?name?) component to rank.
 packages this info into a report. 
 
 Hopefully this a sensible way to help in the decision of which stt to use for next project, with the most up to date info for each stt service. 
+
+
+
+## TODO: 
+
+- [ ] identify modules and components 
+- [ ] jeckyll site 
+- [ ] parsers (to parse response )
+- [ ] list of stt services, start with 3(eg IBM, Microfost, Google) and leave others for fork requests or future implementation.
+- [ ] electron GUI
+- [ ] ...
