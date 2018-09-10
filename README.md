@@ -30,6 +30,21 @@ Where base text is the accurate (human proofread) transcription, and new text is
 Originally modifed from dffijs Mark Boas [`stt-quality`](https://github.com/hyperaudio/stt-quality) (see [demo here](http://pietropassarelli.com/stt-quality/)) which is a fork of [jsdifflib](https://github.com/cemerick/jsdifflib).
 
 
+<!-- 
+Ideal input
+
+- accurate transcription for base
+- media file to sent to STT service
+- credentials for stt service, eg .env file. + config UI?
+
+- output 
+  - stats
+  - visual comparison
+  - some kind of ranking that tells you witch one is more accurate?
+    - eg can chose by matched, deleted, etc..
+
+ -->
+
 ---
 
 ## Background Idea
