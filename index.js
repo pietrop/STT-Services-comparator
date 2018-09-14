@@ -1,5 +1,6 @@
 
 const diffJsSTT  = require('./diff-js-stt/index.js');
+const levenshtein = require('fast-levenshtein');
 
 
 /**
@@ -24,13 +25,19 @@ function compareSTTServices(params){
     var numberOfComparisons = params.textToCompare.length;
     var result = [];
 
+ 
+
     params.textToCompare.forEach((newText)=>{
-        result.push(diffJsSTT({
+        let distance = levenshtein.get(params.testBaseTextString, newText.testNewTextString); 
+
+       let diff = diffJsSTT({
                     testBaseTextString: params.testBaseTextString, 
                     testBaseTextName:  params.testBaseTextName,
                     testNewTextString: newText.testNewTextString,
                     testNewTextName: newText.testNewTextName
-                }));
+                });
+        diff.wordErrorRate =  distance;    
+        result.push(diff);
     });
 
     return result;
