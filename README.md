@@ -1,34 +1,56 @@
 # STT Services comparator
 
-Allows to compare one or more stt automated transcription against an accurate, human transcription base one.
-It returns an array with some scores around as follows
+Allows to compare a base accurate text, with a new hypothesis one.
+
+Example use cases
+- STT(speech to text)/ASR(automatic speech recognition) automated transcription against an accurate, human transcription base one.
+- Automated translation against a human accurate translation. 
+
+It returns an array with some scores as follows
 
 ```json
-[ { stats:
-     { baseTextTotalNumberOfWords: 65,
-       matched: 56,
-       replaced: 13,
-       inserted: 0,
-       deleted: 0 },
-    comparison: {},
-    baseTextName: 'original text',
-    newTextName: 'some text from a STT service' },
- ...
- ]
+ [
+  {
+    "wordErrorRate": 12,
+    "stats": {
+      "matches": 196,
+      "deleted": 0,
+      "inserted": 1,
+      "substitutions": 2
+    },
+    "diffs": [
+      ... 
+      // array of differences - see sample-data/diff-list.json for a longer list
+        {
+          "text": "it's "
+        },
+        {
+          "remove": "hironic in eyesight ",
+          "add": "I run they can hindsight "
+        },
+        ...
+    ],
+    "baseTextwordCount": 198
+  },
+  ...
+]
 ```
 
-- matched: words that are both in based and new text
-- replaced: words that in new text have been replaced from base text
-- inserted: words that are not in base text, and have been inserted into new text
-- deleted: words present in base text but not new text.
+- `matched`: words that are both in based and new text
+- `replaced`: words that in new text have been replaced from base text
+- `inserted`: words that are not in base text, and have been inserted into new text
+- `deleted`: words present in base text but not new text.
+- `baseTextwordCount`: total number of words in base, accurate, text.
+- `diffs`:  array of differences, what [`word-diff`](https://www.npmjs.com/package/word-diff) module returns, see `./sample-data/diff-list.json` for a longer list.
 
 Where base text is the accurate (human proofread) transcription, and new text is the STT automated transcription we are trying to score.
 
 
 ## background 
 
-Originally modifed from dffijs Mark Boas [`stt-quality`](https://github.com/hyperaudio/stt-quality) (see [demo here](http://pietropassarelli.com/stt-quality/)) which is a fork of [jsdifflib](https://github.com/cemerick/jsdifflib).
+Originally inspired from dffijs Mark Boas [`stt-quality`](https://github.com/hyperaudio/stt-quality) (see [demo here](http://pietropassarelli.com/stt-quality/)) which is a fork of [jsdifflib](https://github.com/cemerick/jsdifflib).
 
+But then refactored using [`word-diff`](https://www.npmjs.com/package/word-diff) module for ease of use.
 
 <!-- 
 Ideal input
@@ -45,7 +67,7 @@ Ideal input
 
  -->
 
----
+<!-- ---
 
 ## Background Idea
 
@@ -70,4 +92,4 @@ Uses Mark hyperaudio transcription comparison app (?name?) component to rank.
 
 packages this info into a report. 
 
-Hopefully this a sensible way to help in the decision of which stt to use for next project, with the most up to date info for each stt service. 
+Hopefully this a sensible way to help in the decision of which stt to use for next project, with the most up to date info for each stt service.  -->
