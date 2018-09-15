@@ -1,0 +1,30 @@
+{
+  "name": "stt-services-comparator",
+  "version": "1.0.0",
+  "description": "Allows to compare one or more stt automated transcription against an accurate, human transcription base one. It returns an array with some scores around as follows",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietrop/STT-Services-comparator.git"
+  },
+  "author": "Pietro Passarelli <pietro.passarelli@gmail.com> (http://pietropassarelli.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pietrop/STT-Services-comparator/issues"
+  },
+  "homepage": "https://github.com/pietrop/STT-Services-comparator#readme",
+  "dependencies": {
+    "fast-levenshtein": "^2.0.6",
+    "number-to-words": "^1.2.4",
+    "word-diff": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
