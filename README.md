@@ -6,7 +6,52 @@ Example use cases
 - STT(speech to text)/ASR(automatic speech recognition) automated transcription against an accurate, human transcription base one.
 - Automated translation against a human accurate translation. 
 
-It returns an array with some scores as follows
+
+
+## Setup
+
+_stack - optional_
+
+_How to build and run the code/app_
+
+ 
+## Usage
+
+```js 
+const fs = require('fs');
+const compareSTTServices  = require('./index.js');
+
+const testBaseText = fs.readFileSync('./sample-data/base-text-1.txt').toString();
+const testNewText = fs.readFileSync('./sample-data/hypothesis-text-1.txt').toString();
+
+
+var result = compareSTTServices({
+    baseText: testBaseText, 
+    baseName: 'original text',
+//     // can compare base text against multiple versions
+    textToCompare : [
+        {
+            hypothesisText: testNewText,
+            hypothesisName: 'some text from a STT service'
+        }
+        //,
+        // {
+        //     hypothesisText: testNewText,
+        //     hypothesisName: 'some text from a STT service'
+        // }
+    ]
+});
+
+console.log(JSON.stringify(result,null,2));
+```
+
+see `example-usage.js`.
+
+## System Architecture
+
+_High level overview of system architecture_
+
+The main function returns an array with some scores as follows
 
 ```json
  [
@@ -29,28 +74,69 @@ It returns an array with some scores as follows
           "add": "I run they can hindsight "
         },
         ...
-    ],
+    ],tou
     "baseTextwordCount": 198
   },
   ...
 ]
 ```
 
+ [`word-diff`](https://www.npmjs.com/package/word-diff) is used to calculate the differences, and `lib/calculate-diff-stats.js` is used to aggregate the differences and work out:
+
 - `matched`: words that are both in based and new text
 - `replaced`: words that in new text have been replaced from base text
 - `inserted`: words that are not in base text, and have been inserted into new text
 - `deleted`: words present in base text but not new text.
+
 - `baseTextwordCount`: total number of words in base, accurate, text.
 - `diffs`:  array of differences, what [`word-diff`](https://www.npmjs.com/package/word-diff) module returns, see `./sample-data/diff-list.json` for a longer list.
 
 Where base text is the accurate (human proofread) transcription, and new text is the STT automated transcription we are trying to score.
 
 
+[`fast-levenshtein`](https://github.com/hiddentao/fast-levenshtein) module is used to calculate the WER (Word Error Rate) a common meause of STT/ASR accuracy for these system.
+
+
+## Development env
+
+ _How to run the development environment_
+
+_Coding style convention ref optional, eg which linter to use_
+
+_Linting, github pre-push hook - optional_
+
+- node
+- npm 
+ 
+
+## Build
+_How to run build_
+
+ 
+
+## Tests
+_How to carry out tests_
+
+Test using `jest`
+
+```
+npm test
+```
+
+## Deployment
+
+_How to deploy the code/app into test/staging/production_
+
+...
+
+----
 ## background 
 
 Originally inspired from dffijs Mark Boas [`stt-quality`](https://github.com/hyperaudio/stt-quality) (see [demo here](http://pietropassarelli.com/stt-quality/)) which is a fork of [jsdifflib](https://github.com/cemerick/jsdifflib).
 
 But then refactored using [`word-diff`](https://www.npmjs.com/package/word-diff) module for ease of use.
+
+
 
 <!-- 
 Ideal input
