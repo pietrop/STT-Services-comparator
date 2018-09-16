@@ -75,9 +75,8 @@ function compareText(params){
         // // Diff algo - v4
         // let diff = new Diff();
         // let textDiff = diff.diff_main(tmpBaseText, tmpHpText); 
-        // diff.diff_cleanupSemantic(textDiff)
-        // // console.log();
-        // // console.log(textDiff);
+       
+        // console.log( diff.diff_cleanupSemantic(textDiff));
         // //  Takes a diff array and returns a string of pretty HTML. 
         // // Deletions are wrapped in <del></del> tags, and insertions are wrapped in <ins></ins> tags. 
         // // Use CSS to apply styling to these tags.
@@ -113,17 +112,17 @@ function orderByWer(statsResults){
     });
 }
 
-// function calculateGoogleAlgoDiffStats(diffList){
-//     // console.log(diffList)
-//     let statsResults = {
-//                 "matches": 0,
-//                 "deleted": 0,
-//                 "inserted": 0,
-//                 "substitutions": 'NA'
-//             };
-//     // TODO: need finish implementing
-//     return statsResults;
-// }
+function calculateGoogleAlgoDiffStats(diffList){
+    // console.log(diffList)
+    let statsResults = {
+                "matches": 0,
+                "deleted": 0,
+                "inserted": 0,
+                "substitutions": 'NA'
+            };
+
+    return statsResults;
+}
 
 // function jsDiffcalculateDiffStats(jsDiffList){
 //     let statsResults = {

@@ -21,27 +21,26 @@ var result = compareText({
     showDiffTextResults: true,
     // can compare base text against multiple versions
     textToCompare : [
-        // {
-        //     hypothesisText: speechmatics_MobyDickBookChapterOne,
-        //     hypothesisName: 'Speechmatics'
-        // },
+        {
+            hypothesisText: speechmatics_MobyDickBookChapterOne,
+            hypothesisName: 'Speechmatics'
+        },
         {
             hypothesisText: assemblyAI_MobyDickBookChapterOne,
             hypothesisName: 'AssemblyAI'
+        },
+        {
+            hypothesisText: IBM_MobyDickBookChapterOne,
+            hypothesisName: 'IBM'
+        },
+        {
+            hypothesisText: gentle_MobyDickBookChapterOne,
+            hypothesisName: 'Gentle - Kaldi'
+        },
+        {
+            hypothesisText: pocketsphinx_MobyDickBookChapterOne,
+            hypothesisName: 'Pocketsphinx'
         }
-        // ,
-        // {
-        //     hypothesisText: IBM_MobyDickBookChapterOne,
-        //     hypothesisName: 'IBM'
-        // },
-        // {
-        //     hypothesisText: gentle_MobyDickBookChapterOne,
-        //     hypothesisName: 'Gentle - Kaldi'
-        // },
-        // {
-        //     hypothesisText: pocketsphinx_MobyDickBookChapterOne,
-        //     hypothesisName: 'Pocketsphinx'
-        // }
     ]
 });
 
