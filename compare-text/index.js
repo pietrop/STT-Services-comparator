@@ -91,8 +91,11 @@ const pocketsphinx_MobyDickBookChapterOne =  fs.readFileSync('./compare-text/sam
     ]
  * 
  */
+const fs = require('fs');
 function compareText(params){
     let tmpBaseText = cleanUpTextInput(params.baseText);
+    fs.writeFileSync('./compare-text/sample-data/moby-dick-chapter-1/auto-sanitized-book-moby-dick-chapter-1.txt',tmpBaseText);
+    console.log(tmpBaseText)
     let result = [];    
     
     params.textToCompare.forEach((newText)=>{
@@ -201,7 +204,8 @@ function removeLineBreaks(str){
  * @param {*} str 
  */
 function sanitise(str) {
-	return (str.replace(/\./g, "").replace(/;/g,"").replace(/,/g,"").replace(/\?/g, "").replace(/\!/g, "").replace(/,/g, "").replace(/’/g, "'").replace(/“/g, "").replace(/’/g, "”"));
+    // TODO: hypen `-` replace is not working. not sure why. and it effects results coz hyphenated words count as one, and do not match.
+	return (str.replace(/\./g, "").replace(/\-/g," ").replace(/-/g," ").replace(/;/g,"").replace(/,/g,"").replace(/\?/g, "").replace(/\!/g, "").replace(/,/g, "").replace(/’/g, "'").replace(/“/g, "").replace(/’/g, "”"));
 }
 
 

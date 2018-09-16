@@ -4,12 +4,12 @@ const compareText  = require('./index.js');
 // const testBaseText = fs.readFileSync('./compare-text/sample-data/base-text-1.txt').toString();
 // const testNewText = fs.readFileSync('./compare-text/sample-data/hypothesis-text-1.txt').toString();
 // 
-const book_MobyDickBookChapterOne = fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/book-moby-dick-chapter-1.txt').toString();
-const speechmatics_MobyDickBookChapterOne =  fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/Speechmatics-16-09-18-moby-dick-chapter-1.txt').toString();
-const assemblyAI_MobyDickBookChapterOne = fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/AssemblyAI-16-09-18-moby-dick-chapter-1.txt').toString();
-const IBM_MobyDickBookChapterOne = fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/IBM-16-09-18-moby-dick-chapter-1.txt').toString();
-const pocketsphinx_MobyDickBookChapterOne =  fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/pocketsphinx-moby-dick-chapter-1.txt').toString();
-const gentle_MobyDickBookChapterOne =  fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/gentle-16-09-18-moby-dick-chapter-1.txt').toString();
+const book_MobyDickBookChapterOne = fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/book-moby-dick-chapter-1.txt', 'utf8').toString();
+const speechmatics_MobyDickBookChapterOne =  fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/Speechmatics-16-09-18-moby-dick-chapter-1.txt', 'utf8').toString();
+const assemblyAI_MobyDickBookChapterOne = fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/AssemblyAI-16-09-18-moby-dick-chapter-1.txt', 'utf8').toString();
+const IBM_MobyDickBookChapterOne = fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/IBM-16-09-18-moby-dick-chapter-1.txt', 'utf8').toString();
+const pocketsphinx_MobyDickBookChapterOne =  fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/pocketsphinx-moby-dick-chapter-1.txt', 'utf8').toString();
+const gentle_MobyDickBookChapterOne =  fs.readFileSync('./compare-text/sample-data/moby-dick-chapter-1/gentle-16-09-18-moby-dick-chapter-1.txt', 'utf8').toString();
 
 
 
@@ -17,7 +17,7 @@ var result = compareText({
     baseText: book_MobyDickBookChapterOne, 
     baseName: 'Moby Dick - Book, Chapter 1',
     calculateWordErrorRateOption: true, 
-    showDiffTextResults: true,
+    showDiffTextResults: false,
     // can compare base text against multiple versions
     textToCompare : [
         {
