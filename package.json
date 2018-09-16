@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/pietrop/STT-Services-comparator#readme",
   "dependencies": {
+    "diff": "^3.5.0",
     "fast-levenshtein": "^2.0.6",
     "number-to-words": "^1.2.4",
     "word-diff": "^1.0.1"

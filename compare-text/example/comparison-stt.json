@@ -1,57 +1,1181 @@
 [
   {
-    "baseTextwordCount": 2224,
-    "hypothesisName": "Speechmatics",
-    "stats": {
-      "matches": 1893,
-      "deleted": 46,
-      "inserted": 50,
-      "substitutions": 283
-    },
-    "wordErrorRate": 580
-  },
-  {
-    "baseTextwordCount": 2224,
+    "baseTextwordCount": 2251,
     "hypothesisName": "AssemblyAI",
     "stats": {
-      "matches": 1429,
-      "deleted": 177,
-      "inserted": 104,
-      "substitutions": 616
+      "matches": 1473,
+      "deleted": 123,
+      "inserted": 23,
+      "substitutions": 653
     },
-    "wordErrorRate": 1407
-  },
-  {
-    "baseTextwordCount": 2224,
-    "hypothesisName": "IBM",
-    "stats": {
-      "matches": 1103,
-      "deleted": 679,
-      "inserted": 479,
-      "substitutions": 440
-    },
-    "wordErrorRate": 2249
-  },
-  {
-    "baseTextwordCount": 2224,
-    "hypothesisName": "Gentle - Kaldi",
-    "stats": {
-      "matches": 787,
-      "deleted": 1073,
-      "inserted": 1462,
-      "substitutions": 361
-    },
-    "wordErrorRate": 3747
-  },
-  {
-    "baseTextwordCount": 2224,
-    "hypothesisName": "Pocketsphinx",
-    "stats": {
-      "matches": 702,
-      "deleted": 1200,
-      "inserted": 1186,
-      "substitutions": 320
-    },
-    "wordErrorRate": 3804
+    "diffs": [
+      {
+        "remove": "",
+        "add": "moby dick or the whale by herman melville one looming "
+      },
+      {
+        "text": "call me ishmael some years ago never mind how long precisely having little or no money in my purse "
+      },
+      {
+        "remove": "and nothing particular to interest me on shore ",
+        "add": "nothing particularly interesting on sure "
+      },
+      {
+        "text": "i thought i would sail about a little and see the watery part of the world "
+      },
+      {
+        "remove": "it is ",
+        "add": "it's "
+      },
+      {
+        "text": "a way i have of driving off the spleen and regulating the circulation whenever i find myself growing grim about the mouth whenever "
+      },
+      {
+        "remove": "it is ",
+        "add": "it's "
+      },
+      {
+        "text": "a damp drizzly november in my soul whenever i find myself involuntarily pausing before coffin warehouses "
+      },
+      {
+        "remove": "and ",
+        "add": ""
+      },
+      {
+        "text": "bringing up the rear of every funeral i meet and especially whenever my hypos get such an upper hand of me that it requires a strong moral principle to prevent me from deliberately stepping into the street and methodically knocking people's hats off then "
+      },
+      {
+        "remove": "i account it high ",
+        "add": "in "
+      },
+      {
+        "text": "time to get to sea as soon as i can this is my substitute for pistol and ball with a philosophical flourish cato throws himself upon his sword i quietly take to the ship "
+      },
+      {
+        "remove": "there is ",
+        "add": "there's "
+      },
+      {
+        "text": "nothing surprising in this if they but knew it almost all men in "
+      },
+      {
+        "remove": "their ",
+        "add": "the "
+      },
+      {
+        "text": "degree some time or other cherish very "
+      },
+      {
+        "remove": "nearly the same ",
+        "add": "needs and "
+      },
+      {
+        "text": "feelings towards the ocean with me  "
+      },
+      {
+        "remove": "there now ",
+        "add": "then "
+      },
+      {
+        "text": "is your insular city of the "
+      },
+      {
+        "remove": "manhattoes ",
+        "add": "manhattans "
+      },
+      {
+        "text": "belted round by "
+      },
+      {
+        "remove": "wharves ",
+        "add": "wolves "
+      },
+      {
+        "text": "as indian isles by coral reefs "
+      },
+      {
+        "remove": "commerce surrounds it ",
+        "add": "comme surrounded "
+      },
+      {
+        "text": "with her "
+      },
+      {
+        "remove": "surf ",
+        "add": "for "
+      },
+      {
+        "text": "right and left the streets take you "
+      },
+      {
+        "remove": "waterward its ",
+        "add": "water wood it's "
+      },
+      {
+        "text": "extreme downtown is the battery where that noble mole is washed by "
+      },
+      {
+        "remove": "waves ",
+        "add": "way "
+      },
+      {
+        "text": "and cooled by breezes which a few "
+      },
+      {
+        "remove": "hours previous were out of sight of land look at the crowds of water gazers there  circumambulate ",
+        "add": "previous well acted and ok the crowd of water gases there circulate "
+      },
+      {
+        "text": "the city of a dreamy sabbath afternoon go from "
+      },
+      {
+        "remove": "corlears ",
+        "add": "qualies "
+      },
+      {
+        "text": "hook to "
+      },
+      {
+        "remove": "coenties ",
+        "add": "coin to "
+      },
+      {
+        "text": "slip and from thence by whitehall northward what "
+      },
+      {
+        "remove": "do ",
+        "add": ""
+      },
+      {
+        "text": "you see posted like silent sentinels all around the town stand thousands upon thousands of mortal men "
+      },
+      {
+        "remove": "fixed in ocean reveries ",
+        "add": "six in ocean rivers "
+      },
+      {
+        "text": "some leaning against the "
+      },
+      {
+        "remove": "spiles ",
+        "add": "pile "
+      },
+      {
+        "text": "some seated upon the pier heads some looking over the "
+      },
+      {
+        "remove": "bulwarks ",
+        "add": "bullocks "
+      },
+      {
+        "text": "of ships from china some "
+      },
+      {
+        "remove": "high aloft ",
+        "add": "higher loft "
+      },
+      {
+        "text": "in the rigging as if striving to get a still better "
+      },
+      {
+        "remove": "seaward ",
+        "add": "sea would "
+      },
+      {
+        "text": "peep but these are all "
+      },
+      {
+        "remove": "landsmen ",
+        "add": "landsman "
+      },
+      {
+        "text": "of week days pent up in lath and plaster tied to counters "
+      },
+      {
+        "remove": "nailed to benches ",
+        "add": "nails to ventures "
+      },
+      {
+        "text": "clinched "
+      },
+      {
+        "remove": "to ",
+        "add": "the "
+      },
+      {
+        "text": "desks how then is this "
+      },
+      {
+        "remove": "are ",
+        "add": ""
+      },
+      {
+        "text": "the green fields gone what do they "
+      },
+      {
+        "remove": "here  but look here ",
+        "add": "hear book he "
+      },
+      {
+        "text": "come more crowds pacing straight for the water and seemingly bound for a dive strange nothing will content them but the extremest limit of the land loitering under the shady "
+      },
+      {
+        "remove": "lee of yonder ",
+        "add": "lea on the "
+      },
+      {
+        "text": "warehouses will not suffice no "
+      },
+      {
+        "remove": "they must get just as nigh the ",
+        "add": "the us get just as neither "
+      },
+      {
+        "text": "water as they possibly can without falling in and "
+      },
+      {
+        "remove": "there they stand miles of them ",
+        "add": "[] ten miles of the "
+      },
+      {
+        "text": "leagues "
+      },
+      {
+        "remove": "inlanders all they come from lanes and alleys ",
+        "add": "inland all they come from lane and alice "
+      },
+      {
+        "text": "streets and avenues "
+      },
+      {
+        "remove": "north ",
+        "add": ""
+      },
+      {
+        "text": "east "
+      },
+      {
+        "remove": "south ",
+        "add": ""
+      },
+      {
+        "text": "and west yet "
+      },
+      {
+        "remove": "here they all unite tell me does the ",
+        "add": "the old unit tell me this "
+      },
+      {
+        "text": "magnetic virtue of the needles of the compasses of all those ships attract them "
+      },
+      {
+        "remove": "thither  once more say you are ",
+        "add": "did it once more say you're "
+      },
+      {
+        "text": "in the country in some high land of lakes take almost any "
+      },
+      {
+        "remove": "path you please and ten to one it carries you down in a dale and leaves ",
+        "add": "possible and ten to one it cures you down in the dal and leave "
+      },
+      {
+        "text": "you there by a pool in the stream there is magic in it "
+      },
+      {
+        "remove": "let the most absent minded of men be plunged ",
+        "add": "that the most absentminded of men be punished "
+      },
+      {
+        "text": "in his deepest reveries stand that man on "
+      },
+      {
+        "remove": "his legs set his feet a ",
+        "add": "these things site "
+      },
+      {
+        "text": "going and he will infallibly "
+      },
+      {
+        "remove": "lead you to water if water there be in all that region should you ever be athirst ",
+        "add": "due to water if water that be in all that region should you be assist "
+      },
+      {
+        "text": "in the great american desert try this experiment if your caravan "
+      },
+      {
+        "remove": "happen ",
+        "add": "happened "
+      },
+      {
+        "text": "to be supplied with a metaphysical professor yes "
+      },
+      {
+        "remove": "as every one ",
+        "add": "and everyone "
+      },
+      {
+        "text": "knows meditation and water "
+      },
+      {
+        "remove": "are wedded for ever  but here is ",
+        "add": "over but he's "
+      },
+      {
+        "text": "an artist he "
+      },
+      {
+        "remove": "desires ",
+        "add": "designs "
+      },
+      {
+        "text": "to paint you the dreamiest shadiest quietest most enchanting "
+      },
+      {
+        "remove": "bit of ",
+        "add": "that a "
+      },
+      {
+        "text": "romantic landscape in all the "
+      },
+      {
+        "remove": "valley ",
+        "add": "value "
+      },
+      {
+        "text": "of the saco what is the chief "
+      },
+      {
+        "remove": "element he employs there stand ",
+        "add": "dimon employes there on "
+      },
+      {
+        "text": "his trees each with a hollow trunk as if "
+      },
+      {
+        "remove": "a ",
+        "add": "[] "
+      },
+      {
+        "text": "hermit and "
+      },
+      {
+        "remove": "a crucifix ",
+        "add": "the critics "
+      },
+      {
+        "text": "were within and here sleeps his "
+      },
+      {
+        "remove": "meadow and there sleep his ",
+        "add": "meta and there set is "
+      },
+      {
+        "text": "cattle and up from yonder cottage "
+      },
+      {
+        "remove": "goes ",
+        "add": "as "
+      },
+      {
+        "text": "a sleepy smoke deep into distant woodlands "
+      },
+      {
+        "remove": "winds a mazy ",
+        "add": "wines amazing "
+      },
+      {
+        "text": "way reaching "
+      },
+      {
+        "remove": "to ",
+        "add": ""
+      },
+      {
+        "text": "overlapping spurs of mountains bathed in "
+      },
+      {
+        "remove": "their hill side ",
+        "add": "a hillside "
+      },
+      {
+        "text": "blue but though the picture lies "
+      },
+      {
+        "remove": "thus tranced ",
+        "add": "has tron "
+      },
+      {
+        "text": "and though this pine tree shakes down its "
+      },
+      {
+        "remove": "sighs like leaves upon this shepherd's head yet all were vain unless the shepherd's ",
+        "add": "size like leaves on this shepherd said yet all terrain unless the shop its "
+      },
+      {
+        "text": "eye "
+      },
+      {
+        "remove": "were fixed ",
+        "add": "was i "
+      },
+      {
+        "text": "upon the magic stream before him go visit the prairies in june when "
+      },
+      {
+        "remove": "for scores on scores of miles you wade knee deep among tiger lilies what is the one charm wanting water there is ",
+        "add": "the schools on scores of miles you wait me demons what is the one chan one thing there's "
+      },
+      {
+        "text": "not a drop of water there "
+      },
+      {
+        "remove": "were ",
+        "add": ""
+      },
+      {
+        "text": "niagara "
+      },
+      {
+        "remove": "but a cataract of sand ",
+        "add": "attractive and "
+      },
+      {
+        "text": "would you travel your thousand miles to see it why did the poor "
+      },
+      {
+        "remove": "poet ",
+        "add": "part "
+      },
+      {
+        "text": "of tennessee "
+      },
+      {
+        "remove": "upon ",
+        "add": "and "
+      },
+      {
+        "text": "suddenly receiving two handfuls of silver deliberate whether to buy him a coat which he sadly needed or invest his money in a pedestrian trip to rockaway beach why is almost every robust healthy boy with "
+      },
+      {
+        "remove": "a robust healthy soul ",
+        "add": "the robust healthy sold "
+      },
+      {
+        "text": "in him at some time or other crazy to go to "
+      },
+      {
+        "remove": "sea why ",
+        "add": "see y "
+      },
+      {
+        "text": "upon your first voyage as a passenger did you yourself feel such a mystical vibration when first told that you and your ship were now out of "
+      },
+      {
+        "remove": "sight ",
+        "add": "site "
+      },
+      {
+        "text": "of land why did the old persians hold the sea holy why did the greeks give "
+      },
+      {
+        "remove": "it ",
+        "add": "you "
+      },
+      {
+        "text": "a separate "
+      },
+      {
+        "remove": "deity ",
+        "add": "day "
+      },
+      {
+        "text": "and own brother of jove surely all this is not without meaning and still deeper the meaning of that story of "
+      },
+      {
+        "remove": "narcissus who ",
+        "add": "mess "
+      },
+      {
+        "text": "because he could not grasp the tormenting mild image "
+      },
+      {
+        "remove": "he saw in the fountain plunged into it ",
+        "add": "so in the pontine lunged into "
+      },
+      {
+        "text": "and was drowned but that same image we "
+      },
+      {
+        "remove": "ourselves see ",
+        "add": "are sole "
+      },
+      {
+        "text": "in all rivers and oceans it is the image of the "
+      },
+      {
+        "remove": "ungraspable phantom of life and this is the ",
+        "add": "graspable phantom of life and this is a "
+      },
+      {
+        "text": "key to "
+      },
+      {
+        "remove": "it all  now when i say that i am ",
+        "add": "[] now when i see that i'm "
+      },
+      {
+        "text": "in the habit of going to "
+      },
+      {
+        "remove": "sea ",
+        "add": "see "
+      },
+      {
+        "text": "whenever i begin to grow hazy about the eyes and begin to be over conscious of my "
+      },
+      {
+        "remove": "lungs ",
+        "add": "long "
+      },
+      {
+        "text": "i do not mean to have it inferred that i ever go to "
+      },
+      {
+        "remove": "sea as a passenger for to go as a passenger you must needs have a purse and a purse is but a rag unless you have something in it besides passengers get sea ",
+        "add": "see is a passenger for to go as a passenger you must needs have a purse and a purse but iran if you have something in it besides passengers get "
+      },
+      {
+        "text": "sick grow quarrelsome don't sleep of "
+      },
+      {
+        "remove": "nights do not ",
+        "add": "night don't "
+      },
+      {
+        "text": "enjoy themselves much "
+      },
+      {
+        "remove": "as ",
+        "add": "[] "
+      },
+      {
+        "text": "a general thing no i never "
+      },
+      {
+        "remove": "go as a passenger nor though i am something of a salt do i ever go to sea as a commodore or a captain or a cook i abandon ",
+        "add": "got [] pass no though i am something of the sold do i have to see as a common or a captain or a cook i abandoned "
+      },
+      {
+        "text": "the glory and distinction of such offices to those who like them for my part i abominate "
+      },
+      {
+        "remove": "all ",
+        "add": ""
+      },
+      {
+        "text": "honorable respectable toils trials and tribulations of every kind whatsoever "
+      },
+      {
+        "remove": "it is ",
+        "add": "it's "
+      },
+      {
+        "text": "quite as much as i can do to take care of myself without taking care of ships "
+      },
+      {
+        "remove": "barques brigs ",
+        "add": "box bring "
+      },
+      {
+        "text": "schooners and "
+      },
+      {
+        "remove": "what not and as for going as cook though ",
+        "add": "not up and that's the going is a cook "
+      },
+      {
+        "text": "i confess there is "
+      },
+      {
+        "remove": "",
+        "add": "a "
+      },
+      {
+        "text": "considerable glory in that "
+      },
+      {
+        "remove": "a cook being a sort of officer on ship board yet somehow ",
+        "add": "to cook being a sort of office the on shipboard get some "
+      },
+      {
+        "text": "i never fancied broiling "
+      },
+      {
+        "remove": "fowls though ",
+        "add": "files so "
+      },
+      {
+        "text": "once broiled judiciously "
+      },
+      {
+        "remove": "buttered and judgmatically ",
+        "add": "butted and judge matically "
+      },
+      {
+        "text": "salted "
+      },
+      {
+        "remove": "and peppered there is no one who will speak more respectfully not to ",
+        "add": "in pepper there's no one who will see more respectfully not "
+      },
+      {
+        "text": "say reverentially "
+      },
+      {
+        "remove": "of a broiled fowl than i will it is out of the idolatrous dotings ",
+        "add": "a file and i will it is at the idea tri doings "
+      },
+      {
+        "text": "of the old egyptians upon broiled "
+      },
+      {
+        "remove": "ibis and roasted river horse that you see the mummies of those ",
+        "add": "ives and rested reels that you see the mommys of the "
+      },
+      {
+        "text": "creatures in "
+      },
+      {
+        "remove": "their ",
+        "add": "the "
+      },
+      {
+        "text": "huge "
+      },
+      {
+        "remove": "bake ",
+        "add": "bag "
+      },
+      {
+        "text": "houses the pyramids  no when i go to "
+      },
+      {
+        "remove": "sea i go as ",
+        "add": "see i go "
+      },
+      {
+        "text": "a simple sailor right before the mast "
+      },
+      {
+        "remove": "plumb down into the forecastle aloft ",
+        "add": "plan down into the forecastle a lot "
+      },
+      {
+        "text": "there to the royal "
+      },
+      {
+        "remove": "mast head ",
+        "add": "masthead "
+      },
+      {
+        "text": "true they rather order me about some and make me jump from "
+      },
+      {
+        "remove": "spar to spar like a grasshopper in a may meadow ",
+        "add": "spot to spot like a gross over in a man "
+      },
+      {
+        "text": "and at first this sort of thing is unpleasant enough it "
+      },
+      {
+        "remove": "touches one's ",
+        "add": "up [] is one "
+      },
+      {
+        "text": "sense of honor particularly if you come of an old established family in the land the van "
+      },
+      {
+        "remove": "rensselaers or randolphs or hardicanutes and more than all if ",
+        "add": "resellers randal so hard commutes and more than all i "
+      },
+      {
+        "text": "just previous to putting your hand into the "
+      },
+      {
+        "remove": "tar ",
+        "add": "top "
+      },
+      {
+        "text": "pot you have been lording it as "
+      },
+      {
+        "remove": "a ",
+        "add": "[] "
+      },
+      {
+        "text": "country schoolmaster making the tallest "
+      },
+      {
+        "remove": "boys stand in awe of ",
+        "add": "boy stand in or "
+      },
+      {
+        "text": "you the transition "
+      },
+      {
+        "remove": "is a keen one i assure you from a schoolmaster to a sailor ",
+        "add": "region is you from school master to sather "
+      },
+      {
+        "text": "and requires a strong decoction of seneca and the stoics to enable you to grin and bear it but even this "
+      },
+      {
+        "remove": "wears off in time  what of it if some old ",
+        "add": "was often time what of it some "
+      },
+      {
+        "text": "hunks of a sea captain orders me to get a broom and sweep down the "
+      },
+      {
+        "remove": "decks ",
+        "add": "deck "
+      },
+      {
+        "text": "what does that indignity amount to "
+      },
+      {
+        "remove": "weighed i mean in the scales ",
+        "add": "weigh in in the scale "
+      },
+      {
+        "text": "of the new testament do you think the archangel gabriel "
+      },
+      {
+        "remove": "thinks ",
+        "add": "in "
+      },
+      {
+        "text": "anything the less of me because i promptly and respectfully obey that old hunks in that particular instance who ain't a slave tell me that well then however the old sea captains may order me about however they "
+      },
+      {
+        "remove": "may thump and punch me about i have the ",
+        "add": "make something bunch me about i have [] "
+      },
+      {
+        "text": "satisfaction of knowing that "
+      },
+      {
+        "remove": "it is all right that ",
+        "add": "it's all right "
+      },
+      {
+        "text": "everybody else is one way or other served in much the same way "
+      },
+      {
+        "remove": "either ",
+        "add": ""
+      },
+      {
+        "text": "in a physical or metaphysical point of view that is and so the universal "
+      },
+      {
+        "remove": "thump ",
+        "add": "comp "
+      },
+      {
+        "text": "is passed "
+      },
+      {
+        "remove": "round ",
+        "add": "around "
+      },
+      {
+        "text": "and all hands should rub each "
+      },
+      {
+        "remove": "other's ",
+        "add": "other "
+      },
+      {
+        "text": "shoulder blades and be content  again "
+      },
+      {
+        "remove": "i always go to sea as a sailor ",
+        "add": "i've always go to see is a sale "
+      },
+      {
+        "text": "because they make a point of paying me for my trouble whereas they never pay passengers "
+      },
+      {
+        "remove": "a ",
+        "add": "[] "
+      },
+      {
+        "text": "single "
+      },
+      {
+        "remove": "penny that i ever heard of on the contrary passengers themselves must pay and there ",
+        "add": "pane [] on the country passengers themselves must pay and "
+      },
+      {
+        "text": "is all the difference in the world between "
+      },
+      {
+        "remove": "paying and being paid the act of paying is perhaps ",
+        "add": "pain and being paid the other thing is that "
+      },
+      {
+        "text": "the most uncomfortable "
+      },
+      {
+        "remove": "infliction that the two orchard thieves ",
+        "add": "affection that the two acts "
+      },
+      {
+        "text": "entailed upon us but "
+      },
+      {
+        "remove": "_being paid_ what will compare with it the urbane ",
+        "add": "being paid what we can be with it the "
+      },
+      {
+        "text": "activity with which a man receives money is really "
+      },
+      {
+        "remove": "marvellous ",
+        "add": "more "
+      },
+      {
+        "text": "considering that we so earnestly believe money to be the root of all earthly ills and that "
+      },
+      {
+        "remove": "on no account can a monied man enter ",
+        "add": "i never count on a money man into "
+      },
+      {
+        "text": "heaven "
+      },
+      {
+        "remove": "ah how cheerfully we consign ourselves to perdition  ",
+        "add": "a if we can sign ourselves to petition "
+      },
+      {
+        "text": "finally i always go to "
+      },
+      {
+        "remove": "sea ",
+        "add": "see "
+      },
+      {
+        "text": "as a sailor because of the wholesome exercise and pure air of the "
+      },
+      {
+        "remove": "fore castle deck for as in this world head winds are far more prevalent than winds from astern (that ",
+        "add": "forecastle deck for in this world had win a formal president and wins from a stun that "
+      },
+      {
+        "text": "is if you never violate the pythagorean "
+      },
+      {
+        "remove": "maxim) so for the most part the commodore on the quarter deck ",
+        "add": "maxim so for the most part the commodore on the code "
+      },
+      {
+        "text": "gets his atmosphere "
+      },
+      {
+        "remove": "at ",
+        "add": "[] "
+      },
+      {
+        "text": "second hand from the "
+      },
+      {
+        "remove": "sailors on the forecastle he thinks he breathes it first but not so in much the same way do the commonalty ",
+        "add": "sales on the forecast he thinks he breathed first but not so in much the same way to the commonality "
+      },
+      {
+        "text": "lead their leaders in many other things at the same time "
+      },
+      {
+        "remove": "that the leaders little suspect it but wherefore ",
+        "add": "the lead is little suspected the web or "
+      },
+      {
+        "text": "it was that after having repeatedly smelt "
+      },
+      {
+        "remove": "the sea ",
+        "add": "to see "
+      },
+      {
+        "text": "as a merchant sailor i should now take it "
+      },
+      {
+        "remove": "into my head to go on a whaling voyage ",
+        "add": "[] my head to go on a wailing for age "
+      },
+      {
+        "text": "this the invisible "
+      },
+      {
+        "remove": "police officer of ",
+        "add": "life of through "
+      },
+      {
+        "text": "the fates who has the constant surveillance of me and secretly dogs me and influences me in some unaccountable way he can better answer than "
+      },
+      {
+        "remove": "any one ",
+        "add": "anyone "
+      },
+      {
+        "text": "else and doubtless "
+      },
+      {
+        "remove": "my ",
+        "add": "by "
+      },
+      {
+        "text": "going on this whaling voyage formed part of the grand "
+      },
+      {
+        "remove": "programme ",
+        "add": "program "
+      },
+      {
+        "text": "of providence that was drawn up a long time ago it came in as a sort of brief "
+      },
+      {
+        "remove": "interlude ",
+        "add": "interviewed "
+      },
+      {
+        "text": "and solo between more extensive performances i take it that this "
+      },
+      {
+        "remove": "part of the bill ",
+        "add": "possibile "
+      },
+      {
+        "text": "must have run something like "
+      },
+      {
+        "remove": "this:  '_grand ",
+        "add": "this grand "
+      },
+      {
+        "text": "contested election for the "
+      },
+      {
+        "remove": "presidency of ",
+        "add": "president [] "
+      },
+      {
+        "text": "the united "
+      },
+      {
+        "remove": "states_ 'whaling voyage by one ishmael 'bloody ",
+        "add": "states whaling voyage by one ismail a "
+      },
+      {
+        "text": "battle in "
+      },
+      {
+        "remove": "affghanistan'  though i cannot tell why it ",
+        "add": "afghanistan so i can't tell what "
+      },
+      {
+        "text": "was exactly that those stage "
+      },
+      {
+        "remove": "managers the fates ",
+        "add": "manages the fate "
+      },
+      {
+        "text": "put me down for this shabby part of a whaling voyage when others "
+      },
+      {
+        "remove": "were set down for magnificent parts in high ",
+        "add": "are set down for iverson part and "
+      },
+      {
+        "text": "tragedies "
+      },
+      {
+        "remove": "and ",
+        "add": "i'm "
+      },
+      {
+        "text": "short and easy parts "
+      },
+      {
+        "remove": "in genteel ",
+        "add": "and gentil "
+      },
+      {
+        "text": "comedies and "
+      },
+      {
+        "remove": "jolly parts in farces though ",
+        "add": "drawing parts in forces "
+      },
+      {
+        "text": "i cannot tell why this was exactly yet now that i recall all the circumstances i "
+      },
+      {
+        "remove": "think i ",
+        "add": ""
+      },
+      {
+        "text": "can see a little into the springs and motives which being cunningly "
+      },
+      {
+        "remove": "presented ",
+        "add": "present "
+      },
+      {
+        "text": "to me under various disguises induced me to set about performing "
+      },
+      {
+        "remove": "the part i did besides cajoling me into the delusion that ",
+        "add": "that part i did besides consoling me into the divisions "
+      },
+      {
+        "text": "it was a choice resulting from my own unbiased "
+      },
+      {
+        "remove": "freewill ",
+        "add": "very will "
+      },
+      {
+        "text": "and discriminating judgment  chief among these "
+      },
+      {
+        "remove": "motives was ",
+        "add": "notice with "
+      },
+      {
+        "text": "the overwhelming idea of the great "
+      },
+      {
+        "remove": "whale himself such a portentous ",
+        "add": "way of himself such portents "
+      },
+      {
+        "text": "and mysterious monster "
+      },
+      {
+        "remove": "roused ",
+        "add": "rips "
+      },
+      {
+        "text": "all my curiosity then the wild and distant seas where he rolled his island "
+      },
+      {
+        "remove": "bulk ",
+        "add": "but "
+      },
+      {
+        "text": "the undeliverable "
+      },
+      {
+        "remove": "nameless ",
+        "add": "name of the "
+      },
+      {
+        "text": "perils of the whale these with all the attending marvels of a thousand patagonian "
+      },
+      {
+        "remove": "sights ",
+        "add": "sites "
+      },
+      {
+        "text": "and sounds "
+      },
+      {
+        "remove": "helped ",
+        "add": "helps "
+      },
+      {
+        "text": "to sway me to my wish with "
+      },
+      {
+        "remove": "other men perhaps ",
+        "add": "a man but "
+      },
+      {
+        "text": "such things would not have been inducements but as "
+      },
+      {
+        "remove": "for ",
+        "add": "to "
+      },
+      {
+        "text": "me i am tormented with an everlasting itch for things remote i love to sail forbidden seas and land on barbarous coasts not ignoring what is good i am quick to "
+      },
+      {
+        "remove": "perceive a ",
+        "add": "the sea "
+      },
+      {
+        "text": "horror and could still be social with it "
+      },
+      {
+        "remove": "would they let me since it is but well to ",
+        "add": "[] they let me sensitive but well "
+      },
+      {
+        "text": "be on friendly terms with all the inmates of the place "
+      },
+      {
+        "remove": "one lodges ",
+        "add": "[] large "
+      },
+      {
+        "text": "in  by reason of these things then the whaling voyage was welcome the great "
+      },
+      {
+        "remove": "flood gates of the wonder world swung ",
+        "add": "floodgates of the wonderworld one "
+      },
+      {
+        "text": "open and in the wild conceits that swayed me to my purpose "
+      },
+      {
+        "remove": "two and two there floated ",
+        "add": "on to the lifted "
+      },
+      {
+        "text": "into my inmost "
+      },
+      {
+        "remove": "soul endless ",
+        "add": "so in "
+      },
+      {
+        "text": "processions of the "
+      },
+      {
+        "remove": "whale ",
+        "add": "wall "
+      },
+      {
+        "text": "and mid most of "
+      },
+      {
+        "remove": "them all one grand hooded ",
+        "add": "the mall one grand who did "
+      },
+      {
+        "text": "phantom like a snow hill in "
+      },
+      {
+        "remove": "the air",
+        "add": ""
+      }
+    ],
+    "baseTextName": "Moby Dick - Book, Chapter 1"
   }
 ]

@@ -1,0 +1,5974 @@
+[
+    {
+      "baseTextwordCount": 2251,
+      "hypothesisName": "AssemblyAI",
+      "stats": {
+        "matches": 1775,
+        "deleted": 442,
+        "inserted": 369,
+        "substitutions": "NA"
+      },
+      "diffs": [
+        {
+          "count": 20,
+          "added": true,
+          "value": "moby dick or the whale by herman melville one looming "
+        },
+        {
+          "count": 38,
+          "value": "call me ishmael some years ago never mind how long precisely having little or no money in my purse "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "and "
+        },
+        {
+          "count": 2,
+          "value": "nothing "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "particular"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "particularly"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "to"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "interesting"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 4,
+          "removed": true,
+          "value": "interest me "
+        },
+        {
+          "count": 2,
+          "value": "on "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "shore"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sure"
+        },
+        {
+          "count": 34,
+          "value": " i thought i would sail about a little and see the watery part of the world it"
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "'s"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "is "
+        },
+        {
+          "count": 47,
+          "value": "a way i have of driving off the spleen and regulating the circulation whenever i find myself growing grim about the mouth whenever it"
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "'s"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "is "
+        },
+        {
+          "count": 32,
+          "value": "a damp drizzly november in my soul whenever i find myself involuntarily pausing before coffin warehouses "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "and "
+        },
+        {
+          "count": 90,
+          "value": "bringing up the rear of every funeral i meet and especially whenever my hypos get such an upper hand of me that it requires a strong moral principle to prevent me from deliberately stepping into the street and methodically knocking people's hats off then "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "i"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "in"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 6,
+          "removed": true,
+          "value": "account it high "
+        },
+        {
+          "count": 69,
+          "value": "time to get to sea as soon as i can this is my substitute for pistol and ball with a philosophical flourish cato throws himself upon his sword i quietly take to the ship there"
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "'s"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "is "
+        },
+        {
+          "count": 26,
+          "value": "nothing surprising in this if they but knew it almost all men in "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "their"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 15,
+          "value": " degree some time or other cherish very "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "nearly"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "needs"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "same "
+        },
+        {
+          "count": 12,
+          "value": "feelings towards the ocean with me "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "there"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "then"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "now "
+        },
+        {
+          "count": 12,
+          "value": "is your insular city of the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "manhattoes"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "manhattans"
+        },
+        {
+          "count": 7,
+          "value": " belted round by "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "wharves"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "wolves"
+        },
+        {
+          "count": 13,
+          "value": " as indian isles by coral reefs "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "commerce"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "comme"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "surrounds"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "surrounded"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "it "
+        },
+        {
+          "count": 4,
+          "value": "with her "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "surf"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "for"
+        },
+        {
+          "count": 15,
+          "value": " right and left the streets take you "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "waterward"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "water"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "its"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "wood"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 4,
+          "added": true,
+          "value": "it's "
+        },
+        {
+          "count": 24,
+          "value": "extreme downtown is the battery where that noble mole is washed by "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "waves"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "way"
+        },
+        {
+          "count": 15,
+          "value": " and cooled by breezes which a few "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "hours "
+        },
+        {
+          "count": 2,
+          "value": "previous "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "were"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "well"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "out"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "acted"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "of"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sight"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "ok"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 8,
+          "removed": true,
+          "value": "of land look at "
+        },
+        {
+          "count": 2,
+          "value": "the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "crowds"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "crowd"
+        },
+        {
+          "count": 5,
+          "value": " of water "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "gazers"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "gases"
+        },
+        {
+          "count": 3,
+          "value": " there "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "circumambulate"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "circulate"
+        },
+        {
+          "count": 19,
+          "value": " the city of a dreamy sabbath afternoon go from "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "corlears"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "qualies"
+        },
+        {
+          "count": 5,
+          "value": " hook to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "coenties"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "coin"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "to "
+        },
+        {
+          "count": 16,
+          "value": "slip and from thence by whitehall northward what "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "do "
+        },
+        {
+          "count": 34,
+          "value": "you see posted like silent sentinels all around the town stand thousands upon thousands of mortal men "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "fixed"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "six"
+        },
+        {
+          "count": 5,
+          "value": " in ocean "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "reveries"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "rivers"
+        },
+        {
+          "count": 9,
+          "value": " some leaning against the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "spiles"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "pile"
+        },
+        {
+          "count": 21,
+          "value": " some seated upon the pier heads some looking over the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "bulwarks"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "bullocks"
+        },
+        {
+          "count": 11,
+          "value": " of ships from china some "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "high"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "higher"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "aloft"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "loft"
+        },
+        {
+          "count": 23,
+          "value": " in the rigging as if striving to get a still better "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "seaward"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sea"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "would "
+        },
+        {
+          "count": 10,
+          "value": "peep but these are all "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "landsmen"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "landsman"
+        },
+        {
+          "count": 25,
+          "value": " of week days pent up in lath and plaster tied to counters "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "nailed"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "nails"
+        },
+        {
+          "count": 3,
+          "value": " to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "benches"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "ventures"
+        },
+        {
+          "count": 3,
+          "value": " clinched "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "to"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 11,
+          "value": " desks how then is this "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "are "
+        },
+        {
+          "count": 14,
+          "value": "the green fields gone what do they "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "here"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "hear"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "but"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "book"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "look"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "he"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "here "
+        },
+        {
+          "count": 60,
+          "value": "come more crowds pacing straight for the water and seemingly bound for a dive strange nothing will content them but the extremest limit of the land loitering under the shady "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "lee"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "lea"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "of"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "on"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "yonder"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 11,
+          "value": " warehouses will not suffice no "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "they"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "must"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "us"
+        },
+        {
+          "count": 7,
+          "value": " get just as "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "nigh"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "neither"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "the "
+        },
+        {
+          "count": 18,
+          "value": "water as they possibly can without falling in and "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "there"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "they"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "ten"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "stand "
+        },
+        {
+          "count": 4,
+          "value": "miles of "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "them"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 3,
+          "value": " leagues "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "inlanders"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "inland"
+        },
+        {
+          "count": 9,
+          "value": " all they come from "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "lanes"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "lane"
+        },
+        {
+          "count": 3,
+          "value": " and "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "alleys"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "alice"
+        },
+        {
+          "count": 7,
+          "value": " streets and avenues "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "north "
+        },
+        {
+          "count": 2,
+          "value": "east "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "south "
+        },
+        {
+          "count": 6,
+          "value": "and west yet "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "here"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "they"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "old"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "all"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "unit"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "unite "
+        },
+        {
+          "count": 4,
+          "value": "tell me "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "does"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "this"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "the "
+        },
+        {
+          "count": 28,
+          "value": "magnetic virtue of the needles of the compasses of all those ships attract them "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "thither"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "did"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "it "
+        },
+        {
+          "count": 7,
+          "value": "once more say you"
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "'re"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "are "
+        },
+        {
+          "count": 24,
+          "value": "in the country in some high land of lakes take almost any "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "path"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "possible"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 4,
+          "removed": true,
+          "value": "you please "
+        },
+        {
+          "count": 10,
+          "value": "and ten to one it "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "carries"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "cures"
+        },
+        {
+          "count": 7,
+          "value": " you down in "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "dale"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "dal"
+        },
+        {
+          "count": 3,
+          "value": " and "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "leaves"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "leave"
+        },
+        {
+          "count": 27,
+          "value": " you there by a pool in the stream there is magic in it "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "let"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "that"
+        },
+        {
+          "count": 5,
+          "value": " the most "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "absent"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "absentminded"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "minded "
+        },
+        {
+          "count": 6,
+          "value": "of men be "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "plunged"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "punished"
+        },
+        {
+          "count": 17,
+          "value": " in his deepest reveries stand that man on "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "his"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "these"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "legs"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "things"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "set"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "site"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 6,
+          "removed": true,
+          "value": "his feet a "
+        },
+        {
+          "count": 10,
+          "value": "going and he will infallibly "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "lead"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "due"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "you "
+        },
+        {
+          "count": 8,
+          "value": "to water if water "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "there"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "that"
+        },
+        {
+          "count": 15,
+          "value": " be in all that region should you "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "ever "
+        },
+        {
+          "count": 2,
+          "value": "be "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "athirst"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "assist"
+        },
+        {
+          "count": 23,
+          "value": " in the great american desert try this experiment if your caravan "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "happen"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "happened"
+        },
+        {
+          "count": 17,
+          "value": " to be supplied with a metaphysical professor yes "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "as"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "every"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "everyone"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "one "
+        },
+        {
+          "count": 8,
+          "value": "knows meditation and water "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "are"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "over"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 6,
+          "removed": true,
+          "value": "wedded for ever  "
+        },
+        {
+          "count": 2,
+          "value": "but "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "here"
+        },
+        {
+          "count": 3,
+          "added": true,
+          "value": "he's"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "is "
+        },
+        {
+          "count": 6,
+          "value": "an artist he "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "desires"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "designs"
+        },
+        {
+          "count": 19,
+          "value": " to paint you the dreamiest shadiest quietest most enchanting "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "bit"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "that"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "of"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "a"
+        },
+        {
+          "count": 11,
+          "value": " romantic landscape in all the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "valley"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "value"
+        },
+        {
+          "count": 15,
+          "value": " of the saco what is the chief "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "element"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "dimon"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "he"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "employes"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "employs "
+        },
+        {
+          "count": 2,
+          "value": "there "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "stand"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "on"
+        },
+        {
+          "count": 19,
+          "value": " his trees each with a hollow trunk as if "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 5,
+          "value": " hermit and "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "crucifix"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "critics"
+        },
+        {
+          "count": 13,
+          "value": " were within and here sleeps his "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "meadow"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "meta"
+        },
+        {
+          "count": 5,
+          "value": " and there "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sleep"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "set"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "his"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "is"
+        },
+        {
+          "count": 13,
+          "value": " cattle and up from yonder cottage "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "goes"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "as"
+        },
+        {
+          "count": 15,
+          "value": " a sleepy smoke deep into distant woodlands "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "winds"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "wines"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "amazing"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "mazy "
+        },
+        {
+          "count": 4,
+          "value": "way reaching "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "to "
+        },
+        {
+          "count": 12,
+          "value": "overlapping spurs of mountains bathed in "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "their"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "hill"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "hillside"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "side "
+        },
+        {
+          "count": 12,
+          "value": "blue but though the picture lies "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "thus"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "has"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "tranced"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "tron"
+        },
+        {
+          "count": 17,
+          "value": " and though this pine tree shakes down its "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sighs"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "size"
+        },
+        {
+          "count": 5,
+          "value": " like leaves "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "upon"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "on"
+        },
+        {
+          "count": 4,
+          "value": " this shepherd"
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "'s"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "head"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "said"
+        },
+        {
+          "count": 5,
+          "value": " yet all "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "were"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "terrain"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "vain "
+        },
+        {
+          "count": 4,
+          "value": "unless the "
+        },
+        {
+          "count": 3,
+          "removed": true,
+          "value": "shepherd's"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "shop"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "its "
+        },
+        {
+          "count": 2,
+          "value": "eye "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "were"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "was"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "fixed"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "i"
+        },
+        {
+          "count": 27,
+          "value": " upon the magic stream before him go visit the prairies in june when "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "for"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "scores"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "schools"
+        },
+        {
+          "count": 11,
+          "value": " on scores of miles you "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "wade"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "wait"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "knee"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "me"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "deep"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "demons"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 6,
+          "removed": true,
+          "value": "among tiger lilies "
+        },
+        {
+          "count": 8,
+          "value": "what is the one "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "charm"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "chan"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "wanting"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "one"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "water"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "thing"
+        },
+        {
+          "count": 2,
+          "value": " there"
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "'s"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "is "
+        },
+        {
+          "count": 12,
+          "value": "not a drop of water there "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "were "
+        },
+        {
+          "count": 2,
+          "value": "niagara "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "but"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "attractive"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 6,
+          "removed": true,
+          "value": "cataract of sand "
+        },
+        {
+          "count": 26,
+          "value": "would you travel your thousand miles to see it why did the poor "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "poet"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "part"
+        },
+        {
+          "count": 5,
+          "value": " of tennessee "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "upon"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "and"
+        },
+        {
+          "count": 73,
+          "value": " suddenly receiving two handfuls of silver deliberate whether to buy him a coat which he sadly needed or invest his money in a pedestrian trip to rockaway beach why is almost every robust healthy boy with "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 5,
+          "value": " robust healthy "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "soul"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sold"
+        },
+        {
+          "count": 23,
+          "value": " in him at some time or other crazy to go to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sea"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "see"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "why"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "y"
+        },
+        {
+          "count": 55,
+          "value": " upon your first voyage as a passenger did you yourself feel such a mystical vibration when first told that you and your ship were now out of "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sight"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "site"
+        },
+        {
+          "count": 33,
+          "value": " of land why did the old persians hold the sea holy why did the greeks give "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "it"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "you"
+        },
+        {
+          "count": 5,
+          "value": " a separate "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "deity"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "day"
+        },
+        {
+          "count": 43,
+          "value": " and own brother of jove surely all this is not without meaning and still deeper the meaning of that story of "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "narcissus"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "mess"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "who "
+        },
+        {
+          "count": 18,
+          "value": "because he could not grasp the tormenting mild image "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "he"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "so"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "saw "
+        },
+        {
+          "count": 4,
+          "value": "in the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "fountain"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "pontine"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "plunged"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "lunged"
+        },
+        {
+          "count": 3,
+          "value": " into "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "it "
+        },
+        {
+          "count": 16,
+          "value": "and was drowned but that same image we "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "ourselves"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "are"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "see"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sole"
+        },
+        {
+          "count": 23,
+          "value": " in all rivers and oceans it is the image of the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "ungraspable"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "graspable"
+        },
+        {
+          "count": 13,
+          "value": " phantom of life and this is "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "a"
+        },
+        {
+          "count": 5,
+          "value": " key to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "it"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "all  "
+        },
+        {
+          "count": 6,
+          "value": "now when i "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "say"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "see"
+        },
+        {
+          "count": 4,
+          "value": " that i"
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "'m"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "am "
+        },
+        {
+          "count": 12,
+          "value": "in the habit of going to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sea"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "see"
+        },
+        {
+          "count": 35,
+          "value": " whenever i begin to grow hazy about the eyes and begin to be over conscious of my "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "lungs"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "long"
+        },
+        {
+          "count": 27,
+          "value": " i do not mean to have it inferred that i ever go to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sea"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "see"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "as"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "is"
+        },
+        {
+          "count": 35,
+          "value": " a passenger for to go as a passenger you must needs have a purse and a purse "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "is "
+        },
+        {
+          "count": 2,
+          "value": "but "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "iran"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "rag"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "if"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "unless "
+        },
+        {
+          "count": 16,
+          "value": "you have something in it besides passengers get "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "sea "
+        },
+        {
+          "count": 14,
+          "value": "sick grow quarrelsome don't sleep of "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "nights"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "night"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "do"
+        },
+        {
+          "count": 3,
+          "added": true,
+          "value": "don't"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "not "
+        },
+        {
+          "count": 6,
+          "value": "enjoy themselves much "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "as"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 13,
+          "value": " a general thing no i never "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "go"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "got"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "as"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "pass"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "passenger"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "no"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "nor "
+        },
+        {
+          "count": 10,
+          "value": "though i am something of "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "salt"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sold"
+        },
+        {
+          "count": 5,
+          "value": " do i "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "ever"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "have"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "go "
+        },
+        {
+          "count": 2,
+          "value": "to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sea"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "see"
+        },
+        {
+          "count": 5,
+          "value": " as a "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "commodore"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "common"
+        },
+        {
+          "count": 15,
+          "value": " or a captain or a cook i "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "abandon"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "abandoned"
+        },
+        {
+          "count": 35,
+          "value": " the glory and distinction of such offices to those who like them for my part i abominate "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "all "
+        },
+        {
+          "count": 21,
+          "value": "honorable respectable toils trials and tribulations of every kind whatsoever it"
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "'s"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "is "
+        },
+        {
+          "count": 34,
+          "value": "quite as much as i can do to take care of myself without taking care of ships "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "barques"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "box"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "brigs"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "bring"
+        },
+        {
+          "count": 5,
+          "value": " schooners and "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "what "
+        },
+        {
+          "count": 2,
+          "value": "not "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "up "
+        },
+        {
+          "count": 2,
+          "value": "and "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "as"
+        },
+        {
+          "count": 3,
+          "added": true,
+          "value": "that's"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "for"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 3,
+          "value": " going "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "as"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "is"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "a "
+        },
+        {
+          "count": 2,
+          "value": "cook "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "though "
+        },
+        {
+          "count": 8,
+          "value": "i confess there is "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "a "
+        },
+        {
+          "count": 8,
+          "value": "considerable glory in that "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "to"
+        },
+        {
+          "count": 11,
+          "value": " cook being a sort of "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "officer"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "office"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "the "
+        },
+        {
+          "count": 2,
+          "value": "on "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "ship"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "shipboard"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "board"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "get"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "yet"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "some"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "somehow "
+        },
+        {
+          "count": 8,
+          "value": "i never fancied broiling "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "fowls"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "files"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "though"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "so"
+        },
+        {
+          "count": 7,
+          "value": " once broiled judiciously "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "buttered"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "butted"
+        },
+        {
+          "count": 3,
+          "value": " and "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "judgmatically"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "judge"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "matically "
+        },
+        {
+          "count": 2,
+          "value": "salted "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "in"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "peppered"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "pepper"
+        },
+        {
+          "count": 2,
+          "value": " there"
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "'s"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "is "
+        },
+        {
+          "count": 8,
+          "value": "no one who will "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "speak"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "see"
+        },
+        {
+          "count": 7,
+          "value": " more respectfully not "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "to "
+        },
+        {
+          "count": 4,
+          "value": "say reverentially "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "of "
+        },
+        {
+          "count": 2,
+          "value": "a "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "broiled"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "file"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "fowl"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "than "
+        },
+        {
+          "count": 8,
+          "value": "i will it is "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "out"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "at"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "of "
+        },
+        {
+          "count": 2,
+          "value": "the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "idolatrous"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "idea"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "dotings"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "tri"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "doings "
+        },
+        {
+          "count": 12,
+          "value": "of the old egyptians upon broiled "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "ibis"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "ives"
+        },
+        {
+          "count": 3,
+          "value": " and "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "roasted"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "rested"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "river"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "reels"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "horse "
+        },
+        {
+          "count": 8,
+          "value": "that you see the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "mummies"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "mommys"
+        },
+        {
+          "count": 3,
+          "value": " of "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "those"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 5,
+          "value": " creatures in "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "their"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 3,
+          "value": " huge "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "bake"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "bag"
+        },
+        {
+          "count": 17,
+          "value": " houses the pyramids no when i go to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sea"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "see"
+        },
+        {
+          "count": 5,
+          "value": " i go "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "as "
+        },
+        {
+          "count": 14,
+          "value": "a simple sailor right before the mast "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "plumb"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "plan"
+        },
+        {
+          "count": 9,
+          "value": " down into the forecastle "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "aloft"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "lot "
+        },
+        {
+          "count": 8,
+          "value": "there to the royal "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "mast"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "masthead"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "head "
+        },
+        {
+          "count": 24,
+          "value": "true they rather order me about some and make me jump from "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "spar"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "spot"
+        },
+        {
+          "count": 3,
+          "value": " to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "spar"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "spot"
+        },
+        {
+          "count": 5,
+          "value": " like a "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "grasshopper"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "gross"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "over "
+        },
+        {
+          "count": 4,
+          "value": "in a "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "may"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "man"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "meadow "
+        },
+        {
+          "count": 22,
+          "value": "and at first this sort of thing is unpleasant enough it "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "touches"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "up"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 4,
+          "added": true,
+          "value": "[] is "
+        },
+        {
+          "count": 1,
+          "value": "one"
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "'s"
+        },
+        {
+          "count": 35,
+          "value": " sense of honor particularly if you come of an old established family in the land the van "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "rensselaers"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "resellers"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "or"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "randal"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "randolphs"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "so"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "or"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "hard"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "hardicanutes"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "commutes"
+        },
+        {
+          "count": 9,
+          "value": " and more than all "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "if"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "i"
+        },
+        {
+          "count": 17,
+          "value": " just previous to putting your hand into the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "tar"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "top"
+        },
+        {
+          "count": 15,
+          "value": " pot you have been lording it as "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 11,
+          "value": " country schoolmaster making the tallest "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "boys"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "boy"
+        },
+        {
+          "count": 5,
+          "value": " stand in "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "awe"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "or"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "of "
+        },
+        {
+          "count": 6,
+          "value": "you the transition "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "region "
+        },
+        {
+          "count": 2,
+          "value": "is "
+        },
+        {
+          "count": 10,
+          "removed": true,
+          "value": "a keen one i assure "
+        },
+        {
+          "count": 4,
+          "value": "you from "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "school"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "schoolmaster"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "master"
+        },
+        {
+          "count": 3,
+          "value": " to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sather"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "sailor "
+        },
+        {
+          "count": 42,
+          "value": "and requires a strong decoction of seneca and the stoics to enable you to grin and bear it but even this "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "wears"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "was"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "off"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "often"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "in "
+        },
+        {
+          "count": 8,
+          "value": "time what of it "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "if "
+        },
+        {
+          "count": 2,
+          "value": "some "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "old "
+        },
+        {
+          "count": 30,
+          "value": "hunks of a sea captain orders me to get a broom and sweep down the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "decks"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "deck"
+        },
+        {
+          "count": 13,
+          "value": " what does that indignity amount to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "weighed"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "weigh"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "i"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "in"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "mean "
+        },
+        {
+          "count": 4,
+          "value": "in the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "scales"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "scale"
+        },
+        {
+          "count": 21,
+          "value": " of the new testament do you think the archangel gabriel "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "thinks"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "in"
+        },
+        {
+          "count": 79,
+          "value": " anything the less of me because i promptly and respectfully obey that old hunks in that particular instance who ain't a slave tell me that well then however the old sea captains may order me about however they "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "may"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "make"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "thump"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "something"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "bunch"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "punch "
+        },
+        {
+          "count": 8,
+          "value": "me about i have "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 10,
+          "value": " satisfaction of knowing that it"
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "'s"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "is "
+        },
+        {
+          "count": 4,
+          "value": "all right "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "that "
+        },
+        {
+          "count": 26,
+          "value": "everybody else is one way or other served in much the same way "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "either "
+        },
+        {
+          "count": 28,
+          "value": "in a physical or metaphysical point of view that is and so the universal "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "thump"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "comp"
+        },
+        {
+          "count": 5,
+          "value": " is passed "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "round"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "around"
+        },
+        {
+          "count": 14,
+          "value": " and all hands should rub each other"
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "'s"
+        },
+        {
+          "count": 14,
+          "value": " shoulder blades and be content again i"
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "'ve"
+        },
+        {
+          "count": 7,
+          "value": " always go to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sea"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "see"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "as"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "is"
+        },
+        {
+          "count": 3,
+          "value": " a "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sailor"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sale"
+        },
+        {
+          "count": 33,
+          "value": " because they make a point of paying me for my trouble whereas they never pay passengers "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 3,
+          "value": " single "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "penny"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "pane"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "that"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 8,
+          "removed": true,
+          "value": "i ever heard of "
+        },
+        {
+          "count": 4,
+          "value": "on the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "contrary"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "country"
+        },
+        {
+          "count": 11,
+          "value": " passengers themselves must pay and "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "there "
+        },
+        {
+          "count": 16,
+          "value": "is all the difference in the world between "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "paying"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "pain"
+        },
+        {
+          "count": 9,
+          "value": " and being paid the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "act"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "other"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "of"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "thing"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "paying "
+        },
+        {
+          "count": 2,
+          "value": "is "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "perhaps"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "that"
+        },
+        {
+          "count": 7,
+          "value": " the most uncomfortable "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "infliction"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "affection"
+        },
+        {
+          "count": 7,
+          "value": " that the two "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "orchard"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "acts"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "thieves "
+        },
+        {
+          "count": 8,
+          "value": "entailed upon us but "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "_being"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "being"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "paid_"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "paid"
+        },
+        {
+          "count": 3,
+          "value": " what "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "will"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "we"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "compare"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "can"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "be "
+        },
+        {
+          "count": 6,
+          "value": "with it the "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "urbane "
+        },
+        {
+          "count": 18,
+          "value": "activity with which a man receives money is really "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "marvellous"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "more"
+        },
+        {
+          "count": 35,
+          "value": " considering that we so earnestly believe money to be the root of all earthly ills and that "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "on"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "i"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "no"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "never"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "account"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "count"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "can"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "on"
+        },
+        {
+          "count": 3,
+          "value": " a "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "monied"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "money"
+        },
+        {
+          "count": 3,
+          "value": " man "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "enter"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "into"
+        },
+        {
+          "count": 3,
+          "value": " heaven "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "ah"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "how"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "if"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "cheerfully "
+        },
+        {
+          "count": 2,
+          "value": "we "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "consign"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "can"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "sign "
+        },
+        {
+          "count": 4,
+          "value": "ourselves to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "perdition"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "petition"
+        },
+        {
+          "count": 11,
+          "value": " finally i always go to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sea"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "see"
+        },
+        {
+          "count": 27,
+          "value": " as a sailor because of the wholesome exercise and pure air of the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "fore"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "forecastle"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "castle "
+        },
+        {
+          "count": 4,
+          "value": "deck for "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "as "
+        },
+        {
+          "count": 6,
+          "value": "in this world "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "head"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "had"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "winds"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "win"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "are"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "far"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "formal"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "more"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "president"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "prevalent"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "than"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "wins"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "winds "
+        },
+        {
+          "count": 2,
+          "value": "from "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "astern"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "("
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "stun "
+        },
+        {
+          "count": 17,
+          "value": "that is if you never violate the pythagorean maxim"
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": ")"
+        },
+        {
+          "count": 19,
+          "value": " so for the most part the commodore on the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "quarter"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "code"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "deck "
+        },
+        {
+          "count": 6,
+          "value": "gets his atmosphere "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "at"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 9,
+          "value": " second hand from the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sailors"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sales"
+        },
+        {
+          "count": 5,
+          "value": " on the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "forecastle"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "forecast"
+        },
+        {
+          "count": 7,
+          "value": " he thinks he "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "breathes"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "breathed"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "it "
+        },
+        {
+          "count": 18,
+          "value": "first but not so in much the same way "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "do"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "to"
+        },
+        {
+          "count": 3,
+          "value": " the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "commonalty"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "commonality"
+        },
+        {
+          "count": 23,
+          "value": " lead their leaders in many other things at the same time "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "that "
+        },
+        {
+          "count": 2,
+          "value": "the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "leaders"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "lead"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "is "
+        },
+        {
+          "count": 2,
+          "value": "little "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "suspect"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "suspected"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "it"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "but"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "web"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "wherefore"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "or"
+        },
+        {
+          "count": 15,
+          "value": " it was that after having repeatedly smelt "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "to"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sea"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "see"
+        },
+        {
+          "count": 19,
+          "value": " as a merchant sailor i should now take it "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "into"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 13,
+          "value": " my head to go on a "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "whaling"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "wailing"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "voyage"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "for"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "age "
+        },
+        {
+          "count": 6,
+          "value": "this the invisible "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "police"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "life"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "officer "
+        },
+        {
+          "count": 2,
+          "value": "of "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "through "
+        },
+        {
+          "count": 50,
+          "value": "the fates who has the constant surveillance of me and secretly dogs me and influences me in some unaccountable way he can better answer than "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "any"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "anyone"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "one "
+        },
+        {
+          "count": 6,
+          "value": "else and doubtless "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "my"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "by"
+        },
+        {
+          "count": 21,
+          "value": " going on this whaling voyage formed part of the grand "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "programme"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "program"
+        },
+        {
+          "count": 37,
+          "value": " of providence that was drawn up a long time ago it came in as a sort of brief "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "interlude"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "interviewed"
+        },
+        {
+          "count": 23,
+          "value": " and solo between more extensive performances i take it that this "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "part"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "possibile"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 6,
+          "removed": true,
+          "value": "of the bill "
+        },
+        {
+          "count": 11,
+          "value": "must have run something like this"
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": ":"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "'_grand"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "grand"
+        },
+        {
+          "count": 9,
+          "value": " contested election for the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "presidency"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "president"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "of"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 5,
+          "value": " the united "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "states_"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "states"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "'"
+        },
+        {
+          "count": 8,
+          "value": "whaling voyage by one "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "ishmael"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "ismail"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "'bloody"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "a"
+        },
+        {
+          "count": 5,
+          "value": " battle in "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "affghanistan'"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "afghanistan"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "though"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "so"
+        },
+        {
+          "count": 3,
+          "value": " i "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "cannot"
+        },
+        {
+          "count": 3,
+          "added": true,
+          "value": "can't"
+        },
+        {
+          "count": 3,
+          "value": " tell "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "why"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "what"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "it "
+        },
+        {
+          "count": 10,
+          "value": "was exactly that those stage "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "managers"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "manages"
+        },
+        {
+          "count": 3,
+          "value": " the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "fates"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "fate"
+        },
+        {
+          "count": 27,
+          "value": " put me down for this shabby part of a whaling voyage when others "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "were"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "are"
+        },
+        {
+          "count": 7,
+          "value": " set down for "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "magnificent"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "iverson"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "parts"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "part"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "in"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "high "
+        },
+        {
+          "count": 2,
+          "value": "tragedies "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "and"
+        },
+        {
+          "count": 3,
+          "added": true,
+          "value": "i'm"
+        },
+        {
+          "count": 9,
+          "value": " short and easy parts "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "in"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "genteel"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "gentil"
+        },
+        {
+          "count": 5,
+          "value": " comedies and "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "jolly"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "drawing"
+        },
+        {
+          "count": 5,
+          "value": " parts in "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "farces"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "forces"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "though "
+        },
+        {
+          "count": 32,
+          "value": "i cannot tell why this was exactly yet now that i recall all the circumstances i "
+        },
+        {
+          "count": 4,
+          "removed": true,
+          "value": "think i "
+        },
+        {
+          "count": 24,
+          "value": "can see a little into the springs and motives which being cunningly "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "presented"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "present"
+        },
+        {
+          "count": 23,
+          "value": " to me under various disguises induced me to set about performing "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "that"
+        },
+        {
+          "count": 9,
+          "value": " part i did besides "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "cajoling"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "consoling"
+        },
+        {
+          "count": 7,
+          "value": " me into the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "delusion"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "divisions"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "that "
+        },
+        {
+          "count": 18,
+          "value": "it was a choice resulting from my own unbiased "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "freewill"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "very"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "will "
+        },
+        {
+          "count": 12,
+          "value": "and discriminating judgment chief among these "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "motives"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "notice"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "was"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "with"
+        },
+        {
+          "count": 13,
+          "value": " the overwhelming idea of the great "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "whale"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "way"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "of "
+        },
+        {
+          "count": 4,
+          "value": "himself such "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "portents"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "portentous "
+        },
+        {
+          "count": 6,
+          "value": "and mysterious monster "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "roused"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "rips"
+        },
+        {
+          "count": 29,
+          "value": " all my curiosity then the wild and distant seas where he rolled his island "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "bulk"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "but"
+        },
+        {
+          "count": 5,
+          "value": " the undeliverable "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "nameless"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "name"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 4,
+          "added": true,
+          "value": "of the "
+        },
+        {
+          "count": 28,
+          "value": "perils of the whale these with all the attending marvels of a thousand patagonian "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "sights"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sites"
+        },
+        {
+          "count": 5,
+          "value": " and sounds "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "helped"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "helps"
+        },
+        {
+          "count": 15,
+          "value": " to sway me to my wish with "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "other"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "men"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "man"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "perhaps"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "but"
+        },
+        {
+          "count": 19,
+          "value": " such things would not have been inducements but as "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "for"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "to"
+        },
+        {
+          "count": 63,
+          "value": " me i am tormented with an everlasting itch for things remote i love to sail forbidden seas and land on barbarous coasts not ignoring what is good i am quick to "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "perceive"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "a"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sea"
+        },
+        {
+          "count": 17,
+          "value": " horror and could still be social with it "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "would"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 7,
+          "value": " they let me "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "since"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "sensitive"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 4,
+          "removed": true,
+          "value": "it is "
+        },
+        {
+          "count": 4,
+          "value": "but well "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "to "
+        },
+        {
+          "count": 22,
+          "value": "be on friendly terms with all the inmates of the place "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "one"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "[]"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "lodges"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "large"
+        },
+        {
+          "count": 29,
+          "value": " in by reason of these things then the whaling voyage was welcome the great "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "flood"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "floodgates"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "gates "
+        },
+        {
+          "count": 4,
+          "value": "of the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "wonder"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "wonderworld"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "world"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "one"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "swung "
+        },
+        {
+          "count": 24,
+          "value": "open and in the wild conceits that swayed me to my purpose "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "two"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "on"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "and"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "to"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "two"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "there"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "lifted"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "removed": true,
+          "value": "floated "
+        },
+        {
+          "count": 6,
+          "value": "into my inmost "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "soul"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "so"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "endless"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "in"
+        },
+        {
+          "count": 7,
+          "value": " processions of the "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "whale"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "wall"
+        },
+        {
+          "count": 9,
+          "value": " and mid most of "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "them"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "the"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "all"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "mall"
+        },
+        {
+          "count": 5,
+          "value": " one grand "
+        },
+        {
+          "count": 1,
+          "removed": true,
+          "value": "hooded"
+        },
+        {
+          "count": 1,
+          "added": true,
+          "value": "who"
+        },
+        {
+          "count": 1,
+          "value": " "
+        },
+        {
+          "count": 2,
+          "added": true,
+          "value": "did "
+        },
+        {
+          "count": 11,
+          "value": "phantom like a snow hill in"
+        },
+        {
+          "count": 4,
+          "removed": true,
+          "value": " the air"
+        }
+      ],
+      "baseTextName": "Moby Dick - Book, Chapter 1"
+    }
+  ]

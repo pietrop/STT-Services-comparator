@@ -15,32 +15,32 @@ const gentle_MobyDickBookChapterOne =  fs.readFileSync('./compare-text/sample-da
 
 var result = compareText({
     baseText: book_MobyDickBookChapterOne, 
-    baseName: 'Moby Dick - Book, Chapter 1',
-    calculateWordErrorRateOption: true, 
-    showDiffTextResults: false,
+    baseTextName: 'Moby Dick - Book, Chapter 1',
+    calculateWordErrorRateOption: false, 
+    showDiffTextResults: true,
     // can compare base text against multiple versions
     textToCompare : [
-        {
-            hypothesisText: speechmatics_MobyDickBookChapterOne,
-            hypothesisName: 'Speechmatics'
-        },
+        // {
+        //     hypothesisText: speechmatics_MobyDickBookChapterOne,
+        //     hypothesisName: 'Speechmatics'
+        // },
         {
             hypothesisText: assemblyAI_MobyDickBookChapterOne,
             hypothesisName: 'AssemblyAI'
-        },
-        
-        {
-            hypothesisText: IBM_MobyDickBookChapterOne,
-            hypothesisName: 'IBM'
-        },
-        {
-            hypothesisText: gentle_MobyDickBookChapterOne,
-            hypothesisName: 'Gentle - Kaldi'
-        },
-        {
-            hypothesisText: pocketsphinx_MobyDickBookChapterOne,
-            hypothesisName: 'Pocketsphinx'
         }
+        // ,
+        // {
+        //     hypothesisText: IBM_MobyDickBookChapterOne,
+        //     hypothesisName: 'IBM'
+        // },
+        // {
+        //     hypothesisText: gentle_MobyDickBookChapterOne,
+        //     hypothesisName: 'Gentle - Kaldi'
+        // },
+        // {
+        //     hypothesisText: pocketsphinx_MobyDickBookChapterOne,
+        //     hypothesisName: 'Pocketsphinx'
+        // }
     ]
 });
 
