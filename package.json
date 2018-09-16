@@ -23,6 +23,7 @@
     "diff": "^3.5.0",
     "fast-levenshtein": "^2.0.6",
     "number-to-words": "^1.2.4",
+    "text-diff": "^1.0.1",
     "word-diff": "^1.0.1"
   },
   "devDependencies": {

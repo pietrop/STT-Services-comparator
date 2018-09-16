@@ -1,6 +1,7 @@
 const diffJsSTT  = require('./lib/diff-js-stt/index.js');
 const worddiff = require('word-diff');
 const jsdiff = require('diff');
+const Diff = require('./lib/diff-match-patch/diff_match_patch_uncompressed.js');
 const levenshtein = require('fast-levenshtein');
 
 
@@ -71,6 +72,24 @@ function compareText(params){
         // }
         // end v3 option 
 
+        // // Diff algo - v4
+        // let diff = new Diff();
+        // let textDiff = diff.diff_main(tmpBaseText, tmpHpText); 
+        // diff.diff_cleanupSemantic(textDiff)
+        // // console.log();
+        // // console.log(textDiff);
+        // //  Takes a diff array and returns a string of pretty HTML. 
+        // // Deletions are wrapped in <del></del> tags, and insertions are wrapped in <ins></ins> tags. 
+        // // Use CSS to apply styling to these tags.
+        // // console.log( diff.diff_prettyHtml(textDiff));
+        // // diffResults.html = diff.diff_prettyHtml(textDiff);
+        // // diffResults.stats = calculateGoogleAlgoDiffStats(diff.cleanupSemantic(textDiff));
+        // // Given a diff, measure its Levenshtein distance in terms of the number of inserted, deleted or substituted characters. 
+        // // The minimum distance is 0 which means equality, 
+        // // the maximum distance is the length of the longer string.
+        // diffResults.googleLevenshtein = diff.diff_levenshtein(textDiff);
+        // // end v4 option 
+
         diffResults.baseTextName = params.baseTextName;
         diffResults.hypothesisName = newText.hypothesisName
         result.push(diffResults);
@@ -94,6 +113,17 @@ function orderByWer(statsResults){
     });
 }
 
+// function calculateGoogleAlgoDiffStats(diffList){
+//     // console.log(diffList)
+//     let statsResults = {
+//                 "matches": 0,
+//                 "deleted": 0,
+//                 "inserted": 0,
+//                 "substitutions": 'NA'
+//             };
+//     // TODO: need finish implementing
+//     return statsResults;
+// }
 
 // function jsDiffcalculateDiffStats(jsDiffList){
 //     let statsResults = {

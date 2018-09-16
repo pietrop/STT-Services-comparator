@@ -8,6 +8,7 @@
       "inserted": 23,
       "substitutions": 653
     },
+    "wordErrorRate": 1388,
     "diffs": [
       {
         "remove": "",

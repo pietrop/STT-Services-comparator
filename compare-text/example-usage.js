@@ -16,7 +16,8 @@ const gentle_MobyDickBookChapterOne =  fs.readFileSync('./compare-text/sample-da
 var result = compareText({
     baseText: book_MobyDickBookChapterOne, 
     baseTextName: 'Moby Dick - Book, Chapter 1',
-    calculateWordErrorRateOption: false, 
+    // levenstein algo, wer, a bit slow, so option to turn it off if not needed.
+    calculateWordErrorRateOption: true, 
     showDiffTextResults: true,
     // can compare base text against multiple versions
     textToCompare : [
