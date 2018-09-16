@@ -17,7 +17,7 @@ var result = compareText({
     baseText: book_MobyDickBookChapterOne, 
     baseName: 'Moby Dick - Book, Chapter 1',
     calculateWordErrorRateOption: true, 
-    showDiffTextResults: false,
+    showDiffTextResults: true,
     // can compare base text against multiple versions
     textToCompare : [
         {
