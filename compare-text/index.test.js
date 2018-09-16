@@ -1,4 +1,4 @@
-const compareSTTServices  = require('./index.js');
+const compareText  = require('./index.js');
 
 
 describe('Diff - same sentence', () => {
@@ -14,7 +14,7 @@ describe('Diff - same sentence', () => {
             }
         ]
     };
-    let diff = compareSTTServices(optionsSame);
+    let diff = compareText(optionsSame);
 
     test('diffJs  - matched', () => {
         // 9 words in sample sentence
@@ -44,7 +44,7 @@ describe('Diff - one extra word in hypothesis text ', () => {
             }
         ]
     };
-    let diff = compareSTTServices(optionsOneExtra);
+    let diff = compareText(optionsOneExtra);
     test('worddiff - matches', () => {
         expect(diff[0].stats.matches).toBe(9);
     })
@@ -73,7 +73,7 @@ describe('Diff - one delete word in hypothesis ', () => {
             }
         ]
     };
-    let diff = compareSTTServices(optionsOneExtra);
+    let diff = compareText(optionsOneExtra);
     test('worddiff - matches', () => {
         expect(diff[0].stats.matches).toBe(8);
     })
@@ -101,7 +101,7 @@ describe('Diff - one substituion word in hypothesis ', () => {
             }
         ]
     };
-    let diff = compareSTTServices(optionsOneExtra);
+    let diff = compareText(optionsOneExtra);
     test('worddiff - matches', () => {
         expect(diff[0].stats.matches).toBe(8);
     })
@@ -130,7 +130,7 @@ describe('Diff - two substituion and one deletion in hypothesis ', () => {
             }
         ]
     };
-    let diff = compareSTTServices(optionsOneExtra);
+    let diff = compareText(optionsOneExtra);
     test('worddiff - matches', () => {
         expect(diff[0].stats.matches).toBe(6);
     })
@@ -158,7 +158,7 @@ describe('Diff - one substituion and two deletion in hypothesis ', () => {
             }
         ]
     };
-    let diff = compareSTTServices(optionsOneExtra);
+    let diff = compareText(optionsOneExtra);
     test('worddiff - matches', () => {
         expect(diff[0].stats.matches).toBe(6);
     })

@@ -1,6 +1,5 @@
 /**
  * 
- * 
  * example diffs
  [
       {
@@ -21,10 +20,7 @@
  * helper function to count words in a string.
  */
 const fs = require('fs');
-const countWords = require('./count-words.js');
-
-
-
+const countWords = require('../count-words/index.js');
 
 function calculateDiffStats(diffList){
 //   console.log('diffList',diffList)
@@ -39,7 +35,6 @@ function calculateDiffStats(diffList){
     statsResult.substitutions = calculateSubstitutions(diffList);
     statsResult.deleted = calculateDeleted(diffList);
     statsResult.inserted = calculateInserted(diffList);
-  
     return statsResult;
 }
 

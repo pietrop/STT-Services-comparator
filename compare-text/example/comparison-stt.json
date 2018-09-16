@@ -1,0 +1,57 @@
+[
+  {
+    "baseTextwordCount": 2204,
+    "hypothesisName": "Speechmatics",
+    "stats": {
+      "matches": 1821,
+      "deleted": 31,
+      "inserted": 178,
+      "substitutions": 351
+    },
+    "wordErrorRate": 1247
+  },
+  {
+    "baseTextwordCount": 2204,
+    "hypothesisName": "AssemblyAI",
+    "stats": {
+      "matches": 1407,
+      "deleted": 166,
+      "inserted": 113,
+      "substitutions": 629
+    },
+    "wordErrorRate": 1417
+  },
+  {
+    "baseTextwordCount": 2204,
+    "hypothesisName": "IBM",
+    "stats": {
+      "matches": 1087,
+      "deleted": 666,
+      "inserted": 486,
+      "substitutions": 449
+    },
+    "wordErrorRate": 2258
+  },
+  {
+    "baseTextwordCount": 2204,
+    "hypothesisName": "Gentle - Kaldi",
+    "stats": {
+      "matches": 771,
+      "deleted": 1071,
+      "inserted": 1480,
+      "substitutions": 359
+    },
+    "wordErrorRate": 3763
+  },
+  {
+    "baseTextwordCount": 2204,
+    "hypothesisName": "Pocketsphinx",
+    "stats": {
+      "matches": 687,
+      "deleted": 996,
+      "inserted": 1001,
+      "substitutions": 519
+    },
+    "wordErrorRate": 3819
+  }
+]
